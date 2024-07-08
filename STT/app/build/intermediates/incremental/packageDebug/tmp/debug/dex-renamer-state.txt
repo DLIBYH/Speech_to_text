@@ -1,0 +1,4 @@
+#Wed Dec 09 14:37:59 BDT 2020
+base.0=E\:\\Speech_To_Text\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
