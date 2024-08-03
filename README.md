@@ -35,15 +35,20 @@ Follow these steps to activate the Android Speech-to-Text Converter on your devi
   
    
  ## Screenshots
- Language menu:
  ![image](https://github.com/user-attachments/assets/f5fa7d76-e192-4ae2-b534-df489b2311b6)
-
- Start button:
+ Language menu:
+ 
  ![image](https://github.com/user-attachments/assets/551fa913-d4da-47f1-ac13-c915121b0dc5)
+ Start button:
  
  ![image](https://github.com/user-attachments/assets/b4fed890-4328-4f24-a4fd-8f9bfefb2269)
+ Converted text from audio-speech:
+ 
  ![image](https://github.com/user-attachments/assets/c119d469-15da-4a34-b2de-6d67d2af8fa9)
+ Feedback, help, about us menue:
+ 
  ![image](https://github.com/user-attachments/assets/742c6b60-5452-48d2-a11a-9621d60c0ddd)
+ Exit alert:
 
 
 
