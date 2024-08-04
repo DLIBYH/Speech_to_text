@@ -50,6 +50,9 @@ Follow these steps to activate the Android Speech-to-Text Converter on your devi
  - Exit alert:
  ![image](https://github.com/user-attachments/assets/742c6b60-5452-48d2-a11a-9621d60c0ddd)
 
+## Requirements
 
+- Android device with microphone access
+- Internet connection (necessary for language processing)
 
 
