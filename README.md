@@ -55,4 +55,7 @@ Follow these steps to activate the Android Speech-to-Text Converter on your devi
 - Android device with microphone access
 - Internet connection (necessary for language processing)
 
+## Feedback and Support
+
+If you have any feedback or need help, you can reach us through the app's feedback option or contact us at [tajin2517@gmail.com].
 
