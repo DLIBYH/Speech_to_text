@@ -59,3 +59,4 @@ Follow these steps to activate the Android Speech-to-Text Converter on your devi
 
 If you have any feedback or need help, you can reach us through the app's feedback option or contact us at [tajin2517@gmail.com].
 
+## License
